@@ -1,0 +1,21 @@
+{
+  "name": "note_app_kylamae_marbella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KylaMae01/note_app_kylamae_marbella.git"
+  },
+  "author": "Kyla Mae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KylaMae01/note_app_kylamae_marbella/issues"
+  },
+  "homepage": "https://github.com/KylaMae01/note_app_kylamae_marbella#readme",
+  "keywords": []
+}
