@@ -1,1 +1,2 @@
-# note_app_kylamae_marbella
+# Note app
+# Kyla Mae Marbella, BSIT 3-2
